@@ -212,7 +212,7 @@ img {
 
 .nav__close {
   position: absolute;
-  top: 1rem;
+  top: 1.2rem;
   right: 1.5rem;
 }
 /* Show menu */
@@ -657,7 +657,7 @@ img {
   margin-top: 5rem;
   flex-direction: column;
   align-items: center;
-  row-gap: 2rem;
+  row-gap: 1rem;
 }
 
 .footer__social {
